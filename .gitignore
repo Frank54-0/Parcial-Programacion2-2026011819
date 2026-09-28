@@ -1,0 +1,13 @@
+# Compilados
+*.class
+out/
+target/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs y otros
+*.log
+.DS_Store
